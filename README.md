@@ -1,7 +1,7 @@
 # Portfolio-Dynamic
 
 
-                                                                 School project for Chas Academy!
+                                                School project for Chas Academy!
 
 Creator: Sophie Nordell
 
