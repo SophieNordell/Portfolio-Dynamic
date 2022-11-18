@@ -12,7 +12,7 @@ async function getSomething(){
         let data = await response.json();
         //console.log(data)
 
-//---------------------------------------------//
+//---------------------------------------------------------------------------//
 
         //Employment delen från json
 
