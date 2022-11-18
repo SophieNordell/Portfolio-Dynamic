@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css"  >
+  <title>Projects</title>
+
+</head>
+<body class="project-body">
+
+
+  <header>
+    <a href="index.html">Home</a>
+    <a href="about.html">About me</a>
+    <a class="active" href="projects.html">My projects</a>
+    <a href="cv.html">CV</a>
+  </header>
+   <hr>
+
+
+<button class="btn-popup">Click me for info about grid project!</button>
+
+<div class="popup-wrapper">
+  <div class="popup">
+    <div class="popup-close">X</div>
+      <div class="popup-content">
+      <h2 class="popup-h2">My own project</h2>
+      <p class="p-popup">I created the layout according to the image i got from school, including CSS Grid layout. 
+        I Used the grid-areas method to position the elements. <br> <br>
+        I used the mobile-first strategy and made the layout responsive by redefining grid-template-areas in media queries for tablet and desktop.</p>
+    
+    </div>
+  </div>
+</div>
+
+
+
+<em><li><a class="link"  href="https://sophienordell.github.io/Guessing-Game-Codejam/" class="button">Click here to go to my code jam project!</a></li></em>
+
+
+
+<!--Modal-->
+   <!--<div class="modal">
+    <a href="#popup" class="btn">Click here for more Information</a>
+      <div id="popup" class="popup">
+         <a href="#" class="close">&times;</a>
+         <h2>My own project</h2>
+         <p>I created the layout according to the image i got from school, including CSS Grid layout. 
+            I Used the grid-areas method to position the elements.
+            I used the mobile-first strategy and made the layout responsive by redefining grid-template-areas in media queries for tablet and desktop. </p>
+      </div>
+    <a href="#" class="close-popup"></a>
+  </div>
+  modal end-->
+
+
+  <div class="project-div">
+
+    <!--Desktop pic + text-->
+      <h2 class="h2-projects">Desktop</h2>
+      <img class="grid-desktop" src="img/grid-desktop.png" alt="desktop"
+      ><br><br>
+
+    <!--Desktop pic + text-->
+      <h2 class="h2-projects">Tablet</h2>
+      <img class="grid-tablet" src="img/grid-tablet.png" alt="tablet">
+      <br><br>
+
+
+     <!--Desktop pic + text-->
+      <h2 class="h2-projects">Mobile</h2> <br>
+      <img class="grid-mobile" src="img/grid-mobile.png" alt="mobile">
+  </div>
+
+  
+  <script src="./JSON/popup.js"></script>
+</body>
+</html>

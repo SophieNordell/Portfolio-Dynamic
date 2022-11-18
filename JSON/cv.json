@@ -1,0 +1,70 @@
+{
+
+    "personalInfo":[
+
+        {
+        "name": "Sophie Nordell",
+        "location": "Sandfjärdsgatan 10, Årsta",
+        "age": "19.02.1992",
+        "phone": "0708 87 37 06"
+        }
+    ],
+
+    "education":[
+        
+        " 2008 - 2011 Jensen Gymnasium Västa - Barn och fritid program",
+        " 2022 - 2024 Chas Academy Yrkeshögskola - Frontend mobil och webb"
+
+       ],
+
+    
+    "employment":[
+
+        {
+            "heading": " Dotothy Tours",
+            "jobTitle": "Boking assistent",
+            "location": "Stockholm, Sweden",
+            "about": "Worked as a booking assistant but also had independent tasks which involved contacts with various suppliers, hotels and guides. I enjoyed the fast pace, the international atmosphere and being able to give customers really good service."
+            
+        },
+        {
+            "heading": "Vapiano Norway and Sweden",
+            "jobTitle": "Pasta Chef and hostess",
+            "location":"Stockholm, Sweden and Oslo, Norway",
+            "about":"I took orders from customers in a show kitchen where I prepared the food in front of them, kept the stations clean and filled up with goods, etc. I also got to work as a hostess where I stood at the checkout, kept the restaurant clean and welcomed guests and explained Vapiano's special concept."
+        },
+
+        {
+            "heading": "Asperud Barnehage",
+            "jobTitle": "Pre-school teacher",
+            "location": "Oslo, Norway",
+            "about":"I did all the practical and administrative things that are required of a pre-school teacher, such as learning logs, parent meetings, etc."
+        },
+
+        {
+            "heading":"Pysslingen förskolor AB",
+            "jobTitle": "Pre-school teacher",
+            "location": "Stockholm, Sweden",
+            "about":"I did all the practical and administrative things that are required of a pre-school teacher, such as learning logs, parent meetings, etc."
+        }
+
+    ],
+
+    "language":
+
+        { 
+            "Swedish": "Swedish - Native Language",
+            "English":" English - Good knowledge",
+            "Norwegian":"Norwegian - Good knowledge" 
+        }
+    ,
+
+    "about me":[
+        
+            " My name is Sophie Nordell and I am 30 years old. I would describe myself as an outgoing, positive and structured person.",
+             "I have always been interested in a career in IT but never dared to take the plunge until now.",
+            "In my spare time I spend most of my time with my family. I like to read, play videogames and hang out with friends."
+        
+    ]}
+
+   
